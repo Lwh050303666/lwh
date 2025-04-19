@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\22127\source\repos\code\test-c\2024-11-6\2024-11-6\源.cpp(5,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22127\source\repos\code\test-c\2024-11-6\2024-11-6\源.cpp(5,1): error C2365: “malloc”: 重定义；以前的定义是“函数”
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(101,15):
+      参见“malloc”的声明
+  

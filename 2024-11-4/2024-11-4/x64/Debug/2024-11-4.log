@@ -1,0 +1,10 @@
+﻿  Queue.c
+  Stack.c
+  正在生成代码...
+C:\Users\22127\source\repos\code\test-c\2024-11-4\2024-11-4\Stack.c(82,1): error C2017: 非法的转义序列
+C:\Users\22127\source\repos\code\test-c\2024-11-4\2024-11-4\Stack.c(82,6): error C2061: 语法错误: 标识符“newline”
+C:\Users\22127\source\repos\code\test-c\2024-11-4\2024-11-4\Stack.c(82,6): error C2059: 语法错误:“;”
+C:\Users\22127\source\repos\code\test-c\2024-11-4\2024-11-4\Stack.c(82,17): error C2061: 语法错误: 标识符“end”
+C:\Users\22127\source\repos\code\test-c\2024-11-4\2024-11-4\Stack.c(82,17): error C2059: 语法错误:“;”
+C:\Users\22127\source\repos\code\test-c\2024-11-4\2024-11-4\Stack.c(82,24): error C2061: 语法错误: 标识符“file”
+C:\Users\22127\source\repos\code\test-c\2024-11-4\2024-11-4\Stack.c(82,24): error C2059: 语法错误:“;”
