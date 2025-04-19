@@ -1,0 +1,3 @@
+﻿  Test.cpp
+C:\Users\22127\source\repos\code\test-c\2024-12-23\2024-12-23\Test.cpp(131,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  2024-12-23.vcxproj -> C:\Users\22127\source\repos\code\test-c\2024-12-23\x64\Debug\2024-12-23.exe
