@@ -1,0 +1,73 @@
+﻿  Test.cpp
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(8,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Test.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(8,13):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(4,8):
+          在编译类模板“key::BSTreeNode”时
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(8,20): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(18,21): error C2065: “k”: 未声明的标识符
+  (编译源文件“Test.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(18,21):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(16,7):
+          在编译类模板“key::BSTree”时
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(18,10): error C2923: "key::BSTreeNode": "k" 不是参数 "K" 的有效 模板 类型参数
+  (编译源文件“Test.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(18,21):
+      参见“k”的声明
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(19,8): error C2590: “BStree”: 只有构造函数可以有基/成员初始值列表
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(27,11): error C2065: “k”: 未声明的标识符
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(27,4): error C2923: "key::BSTree": "k" 不是参数 "K" 的有效 模板 类型参数
+  (编译源文件“Test.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(27,11):
+      参见“k”的声明
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(33,5): error C3861: “Destory”: 找不到标识符
+  (编译源文件“Test.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(33,12):
+      “Destory”: 函数声明必须可用，因为所有参数都不依赖于模板参数
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(80,5): error C3878: 语法错误:“statement-seq”后出现意外标记“else”
+  (编译源文件“Test.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(80,5):
+      缺少以下项之一:  '}' ?
+      C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(82,23):
+      正在分析此处的简历
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(82,23): error C2760: 语法错误: 此处出现意外的“;”；应为“}”
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(72,5): error C2760: 语法错误: 此处出现意外的“bool”；应为“声明”
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(96,19): error C2760: 语法错误: 此处出现意外的“>”；应为“表达式”
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(96,19): error C3878: 语法错误:“expression”后出现意外标记“>”
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(104,19): error C2065: “root”: 未声明的标识符
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(110,27): error C2065: “cu”: 未声明的标识符
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(140,13): error C2065: “cu”: 未声明的标识符
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(151,7): error C2065: “retun”: 未声明的标识符
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-4-21\2025-4-21\BinarySeachTree.h(151,13): error C3878: 语法错误:“id-expression”后出现意外标记“true”
+  (编译源文件“Test.cpp”)
+  
