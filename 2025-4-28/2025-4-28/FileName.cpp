@@ -167,20 +167,47 @@ using namespace std;
 //}
  //1、是否构成重载 -- 构成
  //2、问题。无参调用存在歧义
-void f()
-{
-	cout << "f()" << endl;
-}
+//void f()
+//{
+//	cout << "f()" << endl;
+//}
+//
+//void f(int a = 0)
+//{
+//	cout << "f(int a)" << endl;
+//}
+//
+//int main()
+//{
+//	f(); // “f”: 对重载函数的调用不明确
+//
+//	return 0;
+//}
 
-void f(int a = 0)
-{
-	cout << "f(int a)" << endl;
-}
 
-int main()
-{
-	f(); // “f”: 对重载函数的调用不明确
 
-	return 0;
-}
+//bool operator<(const Date& x1, const Date& x2)
+//{
+//	if (x1._year < x2._year)
+//	{
+//		return true;
+//	}
+//	else if (x1._year == x2._year && x1._month < x2._month)
+//	{
+//		return true;
+//	}
+//	else if (x1._year == x2._year && x1._month == x2._month && x1._day < x2._day)
+//	{
+//		return true;
+//	}
+//
+//	return false;
+//}
+
+
+
+
+
+
+
 
