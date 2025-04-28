@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+C:\Users\22127\source\repos\code\test-c\2025-4-28\2025-4-28\FileName.cpp(182,2): error C2668: “f”: 对重载函数的调用不明确
+      C:\Users\22127\source\repos\code\test-c\2025-4-28\2025-4-28\FileName.cpp(175,6):
+      可能是“void f(int)”
+      C:\Users\22127\source\repos\code\test-c\2025-4-28\2025-4-28\FileName.cpp(170,6):
+      或    “void f(void)”
+      C:\Users\22127\source\repos\code\test-c\2025-4-28\2025-4-28\FileName.cpp(182,2):
+      尝试匹配参数列表“()”时
+  
