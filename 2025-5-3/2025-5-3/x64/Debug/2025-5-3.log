@@ -1,0 +1,20 @@
+﻿  FileName.cpp
+C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\RBTree.h(176,17): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+  (编译源文件“FileName.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\RBTree.h(176,17):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\RBTree.h(24,8):
+          在编译类模板“RBTree”时
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\RBTree.h(176,17): error C2059: 语法错误:“return”
+  (编译源文件“FileName.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\RBTree.h(176,37): error C2238: 意外的标记位于“;”之前
+  (编译源文件“FileName.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\FileName.cpp(23,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\FileName.cpp(27,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\FileName.cpp(27,15): warning C4267:         with
+C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\FileName.cpp(27,15): warning C4267:         [
+C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\FileName.cpp(27,15): warning C4267:             _Ty=int
+C:\Users\22127\source\repos\code\test-c\2025-5-3\2025-5-3\FileName.cpp(27,15): warning C4267:         ]
