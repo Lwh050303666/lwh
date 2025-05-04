@@ -1,0 +1,67 @@
+﻿  FileName.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_sanitizer_annotate_container.hpp(102,9): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_sanitizer_annotate_container.hpp(105,9): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_sanitizer_annotate_container.hpp(120,8): error C2059: 语法错误:“字符串”
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_sanitizer_annotate_container.hpp(120,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\iosfwd(23,1): error C2059: 语法错误:“namespace”
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\iosfwd(23,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_string_view.hpp(23,8): error C2059: 语法错误:“字符串”
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_string_view.hpp(23,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_string_view.hpp(39,1): error C2059: 语法错误:“namespace”
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_string_view.hpp(39,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_string_view.hpp(58,1): error C2059: 语法错误:“namespace”
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_string_view.hpp(58,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(26,1): error C2059: 语法错误:“namespace”
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(26,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\ctype.h(19,1): error C2059: 语法错误:“字符串”
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\ctype.h(19,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cctype(20,1): error C2059: 语法错误:“namespace”
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cctype(20,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\string(23,1): error C2059: 语法错误:“namespace”
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\string(23,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“FileName.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\FileName.cpp(58,1): error C2059: 语法错误:“using namespace”
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\FileName.cpp(58,20): error C2238: 意外的标记位于“;”之前
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\FileName.cpp(60,8): error C3646: “reduceString”: 未知重写说明符
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\FileName.cpp(60,20): error C2059: 语法错误:“(”
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\FileName.cpp(60,38): error C2334: “{”的前面有意外标记；跳过明显的函数体
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\FileName.cpp(22,16): error C1075: “{”: 未找到匹配令牌
