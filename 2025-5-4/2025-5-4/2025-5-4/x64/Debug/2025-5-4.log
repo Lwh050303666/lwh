@@ -1,0 +1,295 @@
+﻿  Test.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(558,1): error C2059: 语法错误:“namespace”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(558,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,17): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,37): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,37): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,37): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,49): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(574,72): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,6): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,26): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,26): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,111): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\set(22,1):
+      参见“std”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2059: 语法错误:“<”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2059: 语法错误:“return”
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2628: “Solution”后面接“bool”是非法的(是否忘记了“;”?)
+  (编译源文件“Test.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2440: “return”: 无法从“bool”转换为“Solution”
+  (编译源文件“Test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1):
+      无构造函数可以接受源类型，或构造函数重载决策不明确
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(40,34): error C7592: “V，class”类型的非类型模板参数至少需要“/std:c++20”
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(45,30): error C2065: “V”: 未声明的标识符
+  (编译源文件“Test.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(45,30):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(41,7):
+          在编译类模板“HashTable”时
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(45,22): error C2923: "std::pair": "V" 不是参数 "_Ty2" 的有效 模板 类型参数
+  (编译源文件“Test.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(45,30):
+      参见“V”的声明
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(69,22): error C2065: “V”: 未声明的标识符
+  (编译源文件“Test.cpp”)
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(69,4): error C2923: "HashData": "V" 不是参数 "V" 的有效 模板 类型参数
+  (编译源文件“Test.cpp”)
+      C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(69,22):
+      参见“V”的声明
+  
+C:\Users\22127\source\repos\code\test-c\2025-5-4\2025-5-4\HashTable.h(69,4): error C1003: 错误计数超过 100；正在停止编译
+  (编译源文件“Test.cpp”)
+  
