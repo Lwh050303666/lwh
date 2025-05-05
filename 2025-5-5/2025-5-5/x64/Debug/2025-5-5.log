@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\22127\source\repos\code\test-c\2025-5-5\2025-5-5\FileName.cpp(4,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\22127\source\repos\code\test-c\2025-5-5\2025-5-5\FileName.cpp(9,1): warning C4715: “dp”: 不是所有的控件路径都返回值
+  2025-5-5.vcxproj -> C:\Users\22127\source\repos\code\test-c\2025-5-5\x64\Debug\2025-5-5.exe
