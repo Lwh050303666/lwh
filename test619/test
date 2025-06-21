@@ -1,0 +1,52 @@
+#include<iostream>
+#include<cstring>
+#include<ctime>
+#include<unistd.h>
+#include<signal.h>
+#include<sys/types.h>
+#include<sys/wait.h>
+using namespace std;
+
+void handler(int signo){
+sleep(5);
+pid_t rid;
+while((rid=waitpid(-1,nullptr,WNOHANG))>0){
+    cout<<"I am process:"<<getpid()<<"catch a signo"<<"child process quit"
+}
+
+
+
+}
+
+int main(){
+    //signal(17,SIG_IGN);
+    //srand(time(nullptr));
+    for(int i=1;i<=10;i++){
+pid_t id=fork();
+if(id=0){
+    while(true){
+        cout<<"I am child process:"<<getpid()<<"ppid:"<<getppid()<<endl;
+        sleep(5);
+        break;
+    }
+    cout<<"child quit!!!"<<endl;
+    exit(0);
+}
+sleep(1);
+}
+//father
+while(true){
+    cout<<"I am father process:"<<getpid()<<endl;
+    sleep(1);
+}
+return 0;
+}
+
+volatile int flag=0;
+void handler(int signo){
+    cout<<"catch a signal:"<<signo<<endl;
+    flag=1;
+}
+int main(){
+signal(2,handler)
+}
