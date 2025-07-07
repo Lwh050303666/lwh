@@ -1,6 +1,6 @@
 #pragma once
 #include<iostream>
-#inclue<string>
+#include<string>
 
 
 string opers="+-*/%";
