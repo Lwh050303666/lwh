@@ -18,3 +18,7 @@ class my_exception:public runtime_error{
 
 }
 //You must doing something,bro.
+//Just do it.To do the right thing
+
+[]()->return {}
+
