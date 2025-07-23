@@ -747,28 +747,60 @@
 
 // }
 
-void Merge(int *arr,int left,int mid,int right,int *temp){
-int i=left;
-int j=mid+1;
-int k=0;
-while(i<=mid&&j<=right){
-    if(arr[i]<arr[j])  temp[k++]==arr[i++];
-    else temp[k++]=arr[j++]
-}
-while(i<=mid)  temp[k++]=arr[i++];
-while(j<=right)  temp[k++]=arr[j++];
-for(int m=0;m<k;m++)
-arr[left+m]=temp[m];
+// void Merge(int *arr,int left,int mid,int right,int *temp){
+// int i=left;
+// int j=mid+1;
+// int k=0;
+// while(i<=mid&&j<=right){
+//     if(arr[i]<arr[j])  temp[k++]==arr[i++];
+//     else temp[k++]=arr[j++]
+// }
+// while(i<=mid)  temp[k++]=arr[i++];
+// while(j<=right)  temp[k++]=arr[j++];
+// for(int m=0;m<k;m++)
+// arr[left+m]=temp[m];
 
 
 
+// }
+// void MergeSort(int *arr,int left,int right,int * temp){
+//     if(left>=right)  return;
+//     int mid=(left+right)/2;
+//     MergeSort(arr,left,mid,temp);
+//     MergeSort(arr,mid+1,right,temp);
+//     Merge(arr,left,mid,right,temp);
+// }
+
+//迭代法
+//统一迭代法的本质在于: 把所有要访问的节点（无论是访问值还是访问左右子树)都先放入栈中，然后根据是否是“真正访问节点”来判断是否要收集结果
+ 
+ //迭代法中序遍历
+ class Solution{
+public:
+vector<int>inorderTraversal(TreeNode * root){
+vector<int>res;
+stack<TreeNode *>st;
+if(root!=nullptr)  st.push(root);
+while(!st.empty()){
+TreeNode *ele=st.top();
+if(ele!=nullptr)//说明是第一次
+{st.pop();
+   if(ele->right) st.push(ele->right);
+    st.push(ele);
+    st.push(nullptr);
+    if(ele->left) st.push(ele->left);
 }
-void MergeSort(int *arr,int left,int right,int * temp){
-    if(left>=right)  return;
-    int mid=(left+right)/2;
-    MergeSort(arr,left,mid,temp);
-    MergeSort(arr,mid+1,right,temp);
-    Merge(arr,left,mid,right,temp);
+else {
+    //该收割了
+    st.pop();
+    TreeNode *t=st.top();
+    st.pop();
+    res.push_back(t->val);
 }
+}
+}
+return res;
+};
+
 
 
